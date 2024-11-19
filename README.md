@@ -11,4 +11,4 @@ Remove Password from the password's protected PDF's (Decryption),
 Re-arranging pages in pdf file,
 Read metadate of the PDF file,
 Add Metadata to the PDF files (e.g. Title, Author, etc.),
-Rotating Pages - Potrait to Landscape,
+Rotating Pages - Potrait to Landscape.
